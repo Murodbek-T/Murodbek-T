@@ -7,15 +7,16 @@ I specialize in crafting beautiful, responsive, and high-performance web applica
 🛠 Tech Stack  
 - **Languages:** HTML, CSS, SCSS, JavaScript, TypeScript  
 - **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, Bootstrap, UI Libraries  
-- **Other Tools:** Git, Figma, WordPress (ACF), TradingView RSI Setup  
 
 🌱 Currently Learning  
-- Advanced Next.js & TypeScript  
-- Building a Cryptocurrency Wallet (Telegram Mini App)
-- Funded Trading & TradingView Strategies
+- Advanced Next.js & TypeScript
+- Using Sanity as database and fetching data from it
 
 📌 Projects & Work  
-🚧 *Coming soon! 🚀 Stay tuned for open-source contributions & exciting projects.  
+- My personal portfolio
+- Food online shop website
+- TravelX parallax effect landing page
+...and much more
 
 📫 Connect with Me :
 - Portfolio: https://tmurodbek-personal-portfolio.netlify.app
