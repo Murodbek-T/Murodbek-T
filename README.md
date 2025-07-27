@@ -8,10 +8,6 @@ I specialize in crafting beautiful, responsive, and high-performance web applica
 - **Languages:** HTML, CSS, SCSS, JavaScript, TypeScript  
 - **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, Bootstrap, UI Libraries  
 
-🌱 Currently Learning  
-- Advanced Next.js & TypeScript
-- Using Sanity as database and fetching data from it
-
 📌 Projects & Work  
 - My personal portfolio
 - Food online shop website
